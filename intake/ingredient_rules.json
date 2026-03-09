@@ -1,0 +1,2054 @@
+[
+  {
+    "keyword": "tomato",
+    "aliases": ["tomato powder", "tomato extract", "tomato paste"],
+    "risk": "safe",
+    "category": "Natural Vegetable",
+    "messages": [
+      "Tomatoes naturally contain lycopene, a well-known antioxidant.",
+      "They also provide vitamin C and other plant nutrients."
+    ],
+    "benefits": ["Lycopene (antioxidant compound)", "Vitamin C", "Plant based nutrients."]
+  },
+  {
+    "keyword": "garlic",
+    "aliases": ["garlic powder", "garlic extract", "allicin"],
+    "risk": "safe",
+    "category": "Natural Vegetable",
+    "messages": [
+      "Garlic contains allicin and other sulfur compounds.",
+      "It has been studied for its antioxidant and antimicrobial properties."
+    ],
+    "benefits": ["Naturally occurring antioxidants", "Studied for anti-inflammatory activity", "Studied for antimicrobial activity"]
+  },
+  {
+    "keyword": "onion",
+    "aliases": ["onion powder", "onion extract", "dehydrated onion"],
+    "risk": "safe",
+    "category": "Natural Vegetable",
+    "messages": [
+      "Onions contain quercetin, a naturally occurring flavonoid.",
+      "They also provide vitamin C and sulfur-containing compounds."
+    ],
+    "benefits": [ "Quercetin (flavonoid compound)",
+        "Vitamin C",
+        "Naturally occurring sulfur compounds",
+        "Studied for antioxidant activity"]
+  },
+  {
+    "keyword": "spinach",
+    "aliases": ["spinach powder", "spinach extract"],
+    "risk": "safe",
+    "category": "Leafy Green",
+    "messages": [
+      "Spinach is an excellent source of iron, folate, and vitamins A, C, and K.",
+      "A nutrient powerhouse — one of the most beneficial leafy greens."
+    ],
+    "benefits": ["Iron-rich", "Folate", "Vitamin K"]
+  },
+  {
+    "keyword": "carrot",
+    "aliases": ["carrot powder", "carrot extract"],
+    "risk": "safe",
+    "category": "Natural Vegetable",
+    "messages": [
+        "Carrots contain beta-carotene, a precursor to vitamin A.",
+           "They also provide dietary fiber and naturally occurring antioxidants."
+    ],
+    "benefits": [ "Beta-carotene (provitamin A)",
+        "Dietary fiber",
+        "Vitamin K1",
+        "Naturally occurring antioxidants"]
+  },
+  {
+    "keyword": "beetroot",
+    "aliases": ["beet", "beet powder", "beetroot powder", "beet extract"],
+    "risk": "safe",
+    "category": "Natural Vegetable",
+    "messages": [
+        "Beetroot contains natural nitrates and antioxidant compounds.",
+           "It also provides iron, folate, and plant-based phytonutrients."
+    ],
+    "benefits": ["Natural dietary nitrates",
+        "Iron (plant source)",
+        "Folate (Vitamin B9)",
+        "Naturally occurring antioxidants"]
+  },
+  {
+    "keyword": "sweet potato",
+    "aliases": ["sweet potato powder", "yam"],
+    "risk": "safe",
+    "category": "Natural Vegetable",
+    "messages": [
+        "Sweet potatoes contain beta-carotene, a precursor to vitamin A.",
+            "They are naturally sweet and provide carbohydrates along with potassium."
+    ],
+    "benefits": ["Beta-carotene (provitamin A)",
+        "Potassium",
+        "Carbohydrate source",
+        "Dietary plant nutrients"]
+  },
+  {
+    "keyword": "broccoli",
+    "aliases": ["broccoli powder", "broccoli extract"],
+    "risk": "safe",
+    "category": "Cruciferous",
+    "messages": [
+        "Broccoli is a cruciferous vegetable containing vitamin C, vitamin K, and sulforaphane.",
+            "It is a green vegetable known for naturally occurring plant nutrients and fiber."
+    ],
+    "benefits": ["Sulforaphane (plant compound)",
+        "Vitamin C",
+        "Vitamin K",
+        "Dietary fibre"]
+  },
+  {
+    "keyword": "kale",
+    "aliases": ["kale powder", "kale extract"],
+    "risk": "safe",
+    "category": "Leafy Green",
+    "messages": [
+        "Kale is a leafy green vegetable containing vitamins A, K, and C.",
+           "It also provides plant-based calcium and naturally occurring antioxidant compounds."
+    ],
+    "benefits": [ "Vitamin A",
+        "Vitamin K",
+        "Vitamin C",
+        "Calcium (plant source)",
+        "Naturally occurring antioxidants"]
+  },
+  {
+    "keyword": "pumpkin",
+    "aliases": ["pumpkin powder", "pumpkin seed"],
+    "risk": "safe",
+    "category": "Natural Vegetable",
+    "messages": [
+        "Pumpkin contains beta-carotene, which is a precursor to vitamin A.",
+            "It is a low-calorie vegetable that provides dietary fiber."
+    ],
+    "benefits": ["Beta-carotene (provitamin A)",
+        "Vitamin A precursor",
+        "Dietary fibre"]
+  },
+  {
+    "keyword": "mango",
+    "aliases": ["mango powder", "amchur", "mango extract", "dried mango"],
+    "risk": "safe",
+    "category": "Natural Fruit",
+    "messages": [
+        "Mango contains vitamin C, folate, and naturally occurring plant enzymes.",
+           "Dried mango and amchur are used for tangy flavour and contain antioxidant compounds."
+    ],
+    "benefits": ["Vitamin C",
+        "Folate",
+        "Naturally occurring enzymes",
+        "Antioxidants"]
+  },
+  {
+    "keyword": "banana",
+    "aliases": ["banana powder", "plantain"],
+    "risk": "safe",
+    "category": "Natural Fruit",
+    "messages": [
+        "Banana is a carbohydrate-rich fruit containing potassium and vitamin B6.",
+           "It is commonly known as a natural source of plant-based energy."
+    ],
+    "benefits": ["Potassium",
+        "Carbohydrate source",
+        "Vitamin B6"]
+  },
+  {
+    "keyword": "blueberry",
+    "aliases": ["blueberry powder", "blueberry extract", "wild blueberry"],
+    "risk": "safe",
+    "category": "Natural Fruit",
+    "messages": [
+        "Blueberries are known for containing anthocyanins, a type of natural plant pigment.",
+            "They are commonly recognized as an antioxidant-rich berry fruit."
+    ],
+    "benefits": [ "Anthocyanins (plant pigment compound)",
+        "Naturally occurring antioxidants",
+        "Plant-based phytonutrients"]
+  },
+  {
+    "keyword": "strawberry",
+    "aliases": ["strawberry powder", "strawberry extract"],
+    "risk": "safe",
+    "category": "Natural Fruit",
+    "messages": [
+      "Strawberries are packed with Vitamin C, fibre, and antioxidants.",
+      "Low in calories and great for skin and immune health."
+    ],
+    "benefits": ["Vitamin C", "Antioxidant-rich", "Skin health"]
+  },
+  {
+    "keyword": "lemon",
+    "aliases": ["lemon juice", "lemon zest", "lemon powder", "lemon extract"],
+    "risk": "safe",
+    "category": "Natural Fruit",
+    "messages": [
+      "Lemon provides Vitamin C and supports digestion and immunity.",
+      "Natural alkalizing agent with antioxidant properties."
+    ],
+    "benefits": ["Vitamin C", "Digestive aid", "Immune support"]
+  },
+  {
+    "keyword": "orange",
+    "aliases": ["orange juice", "orange powder", "orange extract"],
+    "risk": "safe",
+    "category": "Natural Fruit",
+    "messages": [
+      "Oranges are an excellent source of Vitamin C and flavonoids.",
+      "Supports immune function and collagen production."
+    ],
+    "benefits": ["Vitamin C", "Collagen support", "Flavonoids"]
+  },
+  {
+    "keyword": "pineapple",
+    "aliases": ["pineapple powder", "pineapple extract", "bromelain"],
+    "risk": "safe",
+    "category": "Natural Fruit",
+    "messages": [
+      "Pineapple contains bromelain, a natural digestive enzyme.",
+      "Rich in Vitamin C, manganese, and anti-inflammatory compounds."
+    ],
+    "benefits": ["Bromelain enzyme", "Vitamin C", "Digestive support"]
+  },
+  {
+    "keyword": "coconut",
+    "aliases": ["coconut milk", "coconut oil", "coconut water", "coconut cream", "coconut flour", "desiccated coconut"],
+    "risk": "safe",
+    "category": "Natural Fruit",
+    "messages": [
+      "Coconut provides medium-chain triglycerides for quick energy.",
+      "Antimicrobial properties and supports energy metabolism."
+    ],
+    "benefits": ["MCTs", "Energy source", "Antimicrobial"]
+  },
+  {
+    "keyword": "date",
+    "aliases": ["dates", "date syrup", "date paste", "medjool"],
+    "risk": "moderate",
+    "category": "Natural Fruit",
+    "messages": [
+      "Dates are high in natural sugars, iron, and fibre — consume mindfully.",
+      "Nutrient-dense natural sweetener but calorie-rich."
+    ],
+    "benefits": ["Iron source", "Natural sweetener", "Fibre"]
+  },
+  {
+    "keyword": "tamarind",
+    "aliases": ["tamarind paste", "tamarind powder", "imli"],
+    "risk": "safe",
+    "category": "Natural Fruit",
+    "messages": [
+      "Tamarind is a tangy fruit rich in tartaric acid and antioxidants.",
+      "Supports digestion and provides iron and magnesium."
+    ],
+    "benefits": ["Antioxidants", "Iron source", "Digestive aid"]
+  },
+  {
+    "keyword": "turmeric",
+    "aliases": ["curcumin", "turmeric powder", "turmeric extract"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Turmeric contains curcumin with powerful anti-inflammatory and antioxidant properties.",
+      "May support joint health, liver function, and immune response."
+    ],
+    "benefits": ["Anti-inflammatory", "Antioxidant", "Liver support"]
+  },
+  {
+    "keyword": "ginger",
+    "aliases": ["ginger powder", "ginger extract", "dried ginger", "gingerol"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Ginger supports digestion and may reduce nausea and inflammation.",
+      "A warming spice with natural anti-inflammatory compounds."
+    ],
+    "benefits": ["Anti-nausea", "Digestive aid", "Anti-inflammatory"]
+  },
+  {
+    "keyword": "cinnamon",
+    "aliases": ["cinnamon powder", "cassia", "ceylon cinnamon"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Cinnamon may help regulate blood sugar and is rich in antioxidants.",
+      "Anti-inflammatory and antimicrobial properties."
+    ],
+    "benefits": ["Blood sugar support", "Antioxidants", "Antimicrobial"]
+  },
+  {
+    "keyword": "cumin",
+    "aliases": ["cumin powder", "cumin seeds", "jeera"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Cumin supports digestion and is a good source of iron.",
+      "Traditional digestive spice with antioxidant benefits."
+    ],
+    "benefits": ["Iron source", "Digestive support", "Antioxidant"]
+  },
+  {
+    "keyword": "paprika",
+    "aliases": ["smoked paprika", "paprika powder", "sweet paprika"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Paprika is rich in Vitamin C, carotenoids, and antioxidants.",
+      "Natural colour and flavour enhancer with nutritional benefits."
+    ],
+    "benefits": ["Vitamin C", "Carotenoids", "Antioxidants"]
+  },
+  {
+    "keyword": "coriander",
+    "aliases": ["coriander powder", "cilantro", "dhania"],
+    "risk": "safe",
+    "category": "Herb",
+    "messages": [
+      "Coriander is a natural digestive aid with antioxidant properties.",
+      "May help regulate blood sugar and support gut health."
+    ],
+    "benefits": ["Digestive aid", "Antioxidant", "Blood sugar support"]
+  },
+  {
+    "keyword": "cardamom",
+    "aliases": ["cardamom powder", "elaichi", "green cardamom"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Cardamom supports digestion and has a pleasant aromatic quality.",
+      "Natural breath freshener with anti-inflammatory properties."
+    ],
+    "benefits": ["Digestive aid", "Anti-inflammatory", "Antioxidant"]
+  },
+  {
+    "keyword": "clove",
+    "aliases": ["cloves", "clove powder", "clove extract", "eugenol"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Cloves are among the most antioxidant-rich spices available.",
+      "Natural antimicrobial and anti-inflammatory properties."
+    ],
+    "benefits": ["Antioxidant-rich", "Antibacterial", "Anti-inflammatory"]
+  },
+  {
+    "keyword": "oregano",
+    "aliases": ["oregano powder", "dried oregano", "oregano extract"],
+    "risk": "safe",
+    "category": "Herb",
+    "messages": [
+      "Oregano has strong antioxidant and antimicrobial properties.",
+      "Rich in thymol and carvacrol supporting immune function."
+    ],
+    "benefits": ["Antibacterial", "Antioxidant", "Immune support"]
+  },
+  {
+    "keyword": "basil",
+    "aliases": ["dried basil", "basil extract", "tulsi"],
+    "risk": "safe",
+    "category": "Herb",
+    "messages": [
+      "Basil contains anti-inflammatory essential oils and Vitamin K.",
+      "Adaptogenic properties and rich in antioxidants."
+    ],
+    "benefits": ["Anti-inflammatory", "Vitamin K", "Adaptogen"]
+  },
+  {
+    "keyword": "chili",
+    "aliases": ["chilli", "cayenne", "capsaicin", "red chili", "chilli powder", "hot pepper"],
+    "risk": "moderate",
+    "category": "Spice",
+    "messages": [
+      "Chili contains capsaicin which may support metabolism and circulation.",
+      "May cause digestive discomfort if consumed in excess."
+    ],
+    "benefits": ["Metabolism support", "Circulation", "Pain modulation"]
+  },
+  {
+    "keyword": "black pepper",
+    "aliases": ["pepper", "black pepper powder", "peppercorn", "white pepper"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Black pepper contains piperine which enhances nutrient absorption.",
+      "Natural anti-inflammatory and antioxidant spice used worldwide."
+    ],
+    "benefits": ["Piperine", "Antioxidant", "Nutrient absorption"]
+  },
+  {
+    "keyword": "mustard seeds",
+    "aliases": ["mustard", "mustard powder", "ground mustard", "sarson"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Mustard seeds are rich in selenium and omega-3 fatty acids.",
+      "A traditional spice with anti-inflammatory and digestive benefits."
+    ],
+    "benefits": ["Selenium", "Omega-3", "Digestive aid"]
+  },
+  {
+    "keyword": "fenugreek",
+    "aliases": ["methi", "fenugreek seeds", "methi powder", "fenugreek powder"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Fenugreek may support blood sugar regulation and digestion.",
+      "Rich in fibre and compounds with anti-inflammatory properties."
+    ],
+    "benefits": ["Blood sugar support", "Fibre", "Digestive aid"]
+  },
+  {
+    "keyword": "asafoetida",
+    "aliases": ["hing", "asafetida", "heeng"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Asafoetida (hing) is a traditional digestive spice used in Indian cooking.",
+      "May help reduce bloating and support gut health."
+    ],
+    "benefits": ["Digestive aid", "Anti-bloating", "Antimicrobial"]
+  },
+  {
+    "keyword": "bay leaf",
+    "aliases": ["bay leaves", "tej patta", "dried bay leaf"],
+    "risk": "safe",
+    "category": "Herb",
+    "messages": [
+      "Bay leaves add aromatic depth and contain antioxidant compounds.",
+      "Traditional culinary herb with mild digestive benefits."
+    ],
+    "benefits": ["Antioxidant", "Digestive aid", "Flavour enhancer"]
+  },
+  {
+    "keyword": "nutmeg",
+    "aliases": ["nutmeg powder", "jaiphal"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Nutmeg has warm aromatic flavour and mild anti-inflammatory properties.",
+      "Use in small amounts — large quantities may cause adverse effects."
+    ],
+    "benefits": ["Anti-inflammatory", "Antioxidant", "Digestive support"]
+  },
+  {
+    "keyword": "mace",
+    "aliases": ["javitri", "mace powder"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Mace is the outer covering of nutmeg with similar warm aromatic properties.",
+      "Used in spice blends and has mild digestive benefits."
+    ],
+    "benefits": ["Antioxidant", "Digestive support", "Flavour enhancer"]
+  },
+  {
+    "keyword": "fennel",
+    "aliases": ["fennel seeds", "saunf", "fennel powder"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Fennel seeds are a traditional digestive aid and breath freshener.",
+      "Rich in antioxidants and may help reduce bloating."
+    ],
+    "benefits": ["Digestive aid", "Anti-bloating", "Antioxidant"]
+  },
+  {
+    "keyword": "star anise",
+    "aliases": ["chakra phool", "star anise powder"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Star anise contains anethole with antimicrobial and antifungal properties.",
+      "A warming spice supporting digestion and immunity."
+    ],
+    "benefits": ["Antimicrobial", "Digestive aid", "Antioxidant"]
+  },
+  {
+    "keyword": "ajwain",
+    "aliases": ["carom seeds", "bishop's weed", "ajwain powder"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Ajwain (carom seeds) are a powerful digestive and anti-bloating spice.",
+      "Commonly used in Indian snacks and breads."
+    ],
+    "benefits": ["Digestive aid", "Anti-bloating", "Antimicrobial"]
+  },
+  {
+    "keyword": "kasuri methi",
+    "aliases": ["dried fenugreek leaves", "fenugreek leaves"],
+    "risk": "safe",
+    "category": "Herb",
+    "messages": [
+      "Kasuri methi adds aromatic flavour and may support blood sugar balance.",
+      "Rich in fibre and beneficial plant compounds."
+    ],
+    "benefits": ["Blood sugar support", "Fibre", "Flavour enhancer"]
+  },
+  {
+    "keyword": "spices",
+    "aliases": ["mixed spices", "spice blend", "seasoning", "mixed seasoning", "spice mix", "masala"],
+    "risk": "safe",
+    "category": "Spice",
+    "messages": [
+      "Spice blends typically contain a mix of safe, beneficial herbs and spices.",
+      "Exact composition may vary — individual spices may have specific allergen or health considerations."
+    ],
+    "benefits": ["Antioxidants", "Flavour enhancement", "Various nutrients"]
+  },
+  {
+    "keyword": "oat",
+    "aliases": ["oats", "rolled oats", "oat flour", "oat bran", "beta-glucan"],
+    "risk": "safe",
+    "category": "Grain",
+    "messages": [
+      "Oats are rich in beta-glucan fibre that actively supports heart health.",
+      "Excellent source of sustained energy and digestive health support."
+    ],
+    "benefits": ["Beta-glucan", "Heart health", "Sustained energy"]
+  },
+  {
+    "keyword": "whole grain",
+    "aliases": ["wholegrain", "whole wheat", "whole oat", "whole rye"],
+    "risk": "safe",
+    "category": "Grain",
+    "messages": [
+      "Whole grains retain bran and germ, providing fibre, B vitamins, and minerals.",
+      "Associated with reduced risk of heart disease and improved gut health."
+    ],
+    "benefits": ["Fibre", "B vitamins", "Gut health"]
+  },
+  {
+    "keyword": "quinoa",
+    "aliases": ["quinoa flour", "puffed quinoa"],
+    "risk": "safe",
+    "category": "Grain",
+    "messages": [
+      "Quinoa is a complete protein containing all essential amino acids.",
+      "Gluten-free, iron-rich, and high in magnesium."
+    ],
+    "benefits": ["Complete protein", "Iron-rich", "Magnesium"]
+  },
+  {
+    "keyword": "rice",
+    "aliases": ["rice flour", "brown rice", "white rice", "rice starch", "rice bran"],
+    "risk": "safe",
+    "category": "Grain",
+    "messages": [
+      "Rice is a widely tolerated energy source and gluten-free grain.",
+      "Brown rice retains bran for additional fibre and minerals."
+    ],
+    "benefits": ["Gluten-free", "Easy digestion", "Energy source"]
+  },
+  {
+    "keyword": "corn",
+    "aliases": ["corn starch", "maize", "corn flour", "cornmeal", "corn grits"],
+    "risk": "moderate",
+    "category": "Grain",
+    "messages": [
+      "Corn starch is a refined carbohydrate thickener with high glycemic impact.",
+      "Gluten-free but may spike blood sugar — moderate use recommended."
+    ],
+    "benefits": ["Gluten-free", "Thickening agent"]
+  },
+  {
+    "keyword": "maida",
+    "aliases": ["refined wheat flour", "all purpose flour", "plain flour", "enriched flour"],
+    "risk": "moderate",
+    "category": "Refined Grain",
+    "messages": [
+      "Maida is highly refined wheat flour with most fibre and nutrients removed.",
+      "High glycemic index — whole grain alternatives are preferred for regular use."
+    ],
+    "benefits": ["Soft texture", "Widely used in baking"]
+  },
+  {
+    "keyword": "barley",
+    "aliases": ["barley flour", "barley powder", "pearl barley", "barley extract"],
+    "risk": "safe",
+    "category": "Grain",
+    "messages": [
+      "Barley is rich in beta-glucan fibre supporting heart health and digestion.",
+      "A nutrient-dense grain with a low glycemic index."
+    ],
+    "benefits": ["Beta-glucan", "Heart health", "Low GI"]
+  },
+  {
+    "keyword": "rye",
+    "aliases": ["rye flour", "whole rye", "rye bran"],
+    "risk": "safe",
+    "category": "Grain",
+    "messages": [
+      "Rye is a fibre-rich grain with a lower glycemic impact than wheat.",
+      "Contains gluten — not suitable for those with celiac disease."
+    ],
+    "benefits": ["Fibre-rich", "Low GI", "B vitamins"]
+  },
+  {
+    "keyword": "millet",
+    "aliases": ["bajra", "jowar", "ragi", "finger millet", "pearl millet", "millet flour"],
+    "risk": "safe",
+    "category": "Grain",
+    "messages": [
+      "Millets are ancient grains rich in minerals, fibre, and antioxidants.",
+      "Gluten-free and excellent for sustained energy and gut health."
+    ],
+    "benefits": ["Gluten-free", "Mineral-rich", "Fibre"]
+  },
+  {
+    "keyword": "sorghum",
+    "aliases": ["sorghum flour", "sorghum starch"],
+    "risk": "safe",
+    "category": "Grain",
+    "messages": [
+      "Sorghum is a gluten-free grain rich in antioxidants and fibre.",
+      "A sustainable whole grain supporting digestive and heart health."
+    ],
+    "benefits": ["Gluten-free", "Antioxidant-rich", "Fibre"]
+  },
+  {
+    "keyword": "tapioca starch",
+    "aliases": ["tapioca", "cassava starch", "tapioca flour"],
+    "risk": "safe",
+    "category": "Starch",
+    "messages": [
+      "Tapioca starch is a gluten-free thickener derived from cassava root.",
+      "Neutral in flavour and easy to digest — commonly used as a binding agent."
+    ],
+    "benefits": ["Gluten-free", "Easy digestion", "Thickening agent"]
+  },
+  {
+    "keyword": "arrowroot",
+    "aliases": ["arrowroot starch", "arrowroot powder", "arrowroot flour"],
+    "risk": "safe",
+    "category": "Starch",
+    "messages": [
+      "Arrowroot is a natural gluten-free starch and gentle thickening agent.",
+      "Easy to digest and often used as a healthier alternative to cornstarch."
+    ],
+    "benefits": ["Gluten-free", "Easy digestion", "Natural thickener"]
+  },
+  {
+    "keyword": "potato starch",
+    "aliases": ["potato flour", "potato starch powder"],
+    "risk": "safe",
+    "category": "Starch",
+    "messages": [
+      "Potato starch is a gluten-free thickener with a neutral taste.",
+      "Contains resistant starch which may benefit gut microbiome health."
+    ],
+    "benefits": ["Gluten-free", "Resistant starch", "Gut health"]
+  },
+  {
+    "keyword": "sugar",
+    "aliases": ["cane sugar", "raw sugar", "white sugar", "table sugar", "sucrose", "caramelised sugar", "added sugar", "contains added sugar"],
+    "risk": "moderate",
+    "category": "Sweetener",
+    "messages": [
+      "Contains added sugar — consume in moderation to support energy balance.",
+      "High sugar intake may affect blood sugar levels and energy patterns."
+    ],
+    "benefits": ["Quick energy"]
+  },
+  {
+    "keyword": "high fructose corn syrup",
+    "aliases": ["hfcs", "corn syrup solids", "fructose syrup"],
+    "risk": "careful",
+    "category": "Sweetener",
+    "messages": [
+      "High fructose corn syrup may significantly affect blood sugar and metabolic health.",
+      "Limit frequent consumption — associated with elevated triglycerides in excess."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "honey",
+    "aliases": ["raw honey", "manuka honey", "honey powder"],
+    "risk": "safe",
+    "category": "Natural Sweetener",
+    "messages": [
+      "Honey is a natural sweetener with antibacterial and antioxidant properties.",
+      "Contains natural sugars — enjoy mindfully for blood sugar sensitivity."
+    ],
+    "benefits": ["Antibacterial", "Antioxidants", "Natural origin"]
+  },
+  {
+    "keyword": "maple syrup",
+    "aliases": ["maple extract", "maple sugar"],
+    "risk": "moderate",
+    "category": "Natural Sweetener",
+    "messages": [
+      "Maple syrup contains trace minerals like manganese and zinc.",
+      "Still high in sugar — natural origin does not mean unlimited consumption."
+    ],
+    "benefits": ["Manganese", "Trace minerals", "Antioxidants"]
+  },
+  {
+    "keyword": "stevia",
+    "aliases": ["stevia extract", "steviol glycoside", "rebaudioside"],
+    "risk": "safe",
+    "category": "Natural Sweetener",
+    "messages": [
+      "Stevia is a natural zero-calorie sweetener from the stevia leaf.",
+      "Considered safe for most people and does not affect blood sugar."
+    ],
+    "benefits": ["Zero calorie", "Natural origin", "Blood sugar friendly"]
+  },
+  {
+    "keyword": "monk fruit",
+    "aliases": ["luo han guo", "monk fruit extract", "mogrosides"],
+    "risk": "safe",
+    "category": "Natural Sweetener",
+    "messages": [
+      "Monk fruit extract is a natural zero-calorie sweetener rich in mogrosides.",
+      "Does not raise blood sugar and has antioxidant properties."
+    ],
+    "benefits": ["Zero calorie", "Antioxidants", "Blood sugar friendly"]
+  },
+  {
+    "keyword": "aspartame",
+    "aliases": ["e951", "nutrasweet", "equal"],
+    "risk": "moderate",
+    "category": "Artificial Sweetener",
+    "messages": [
+      "Aspartame is an artificial sweetener approved for general use.",
+      "Not suitable for individuals with phenylketonuria (PKU)."
+    ],
+    "benefits": ["Zero calorie"]
+  },
+  {
+    "keyword": "salt",
+    "aliases": ["sea salt", "rock salt", "table salt", "iodised salt", "sodium chloride"],
+    "risk": "moderate",
+    "category": "Mineral",
+    "messages": [
+      "Contains sodium — essential mineral but excessive intake may affect blood pressure.",
+      "Moderate sodium intake under 2300mg per day is generally recommended."
+    ],
+    "benefits": ["Essential electrolyte", "Iodine when iodised"]
+  },
+  {
+    "keyword": "sodium",
+    "aliases": ["sodium content", "high sodium"],
+    "risk": "moderate",
+    "category": "Mineral",
+    "messages": [
+      "Elevated sodium noted — consider total daily intake across all foods.",
+      "Excessive sodium may contribute to water retention and elevated blood pressure."
+    ],
+    "benefits": ["Essential electrolyte"]
+  },
+  {
+    "keyword": "olive oil",
+    "aliases": ["extra virgin olive oil", "virgin olive oil"],
+    "risk": "safe",
+    "category": "Healthy Fat",
+    "messages": [
+      "Olive oil is rich in monounsaturated fats and polyphenol antioxidants.",
+      "A foundation of heart-healthy Mediterranean diets."
+    ],
+    "benefits": ["Monounsaturated fats", "Polyphenols", "Heart health"]
+  },
+  {
+    "keyword": "palm oil",
+    "aliases": ["palm kernel oil", "palm olein"],
+    "risk": "moderate",
+    "category": "Fat",
+    "messages": [
+      "Palm oil is high in saturated fat — moderate consumption is advisable.",
+      "Commonly used in processed foods and snacks."
+    ],
+    "benefits": ["Vitamin E tocotrienols"]
+  },
+  {
+    "keyword": "sunflower oil",
+    "aliases": ["sunflower seed oil", "refined sunflower oil"],
+    "risk": "moderate",
+    "category": "Fat",
+    "messages": [
+      "Sunflower oil is high in omega-6 fatty acids — balance with omega-3 sources.",
+      "A widely used cooking oil stable at moderate temperatures."
+    ],
+    "benefits": ["Vitamin E", "Light flavour"]
+  },
+  {
+    "keyword": "canola oil",
+    "aliases": ["rapeseed oil", "canola"],
+    "risk": "moderate",
+    "category": "Fat",
+    "messages": [
+      "Canola oil has a favourable omega-3 to omega-6 ratio among vegetable oils.",
+      "Commonly used in processed and fried foods."
+    ],
+    "benefits": ["Low saturated fat", "Omega-3 source"]
+  },
+  {
+    "keyword": "vegetable oil",
+    "aliases": ["refined vegetable oil", "blended vegetable oil"],
+    "risk": "moderate",
+    "category": "Fat",
+    "messages": [
+      "Vegetable oil is a broad term — composition varies significantly by blend.",
+      "Often high in omega-6 fatty acids; specific type matters for health impact."
+    ],
+    "benefits": ["Cooking stability"]
+  },
+  {
+    "keyword": "soybean oil",
+    "aliases": ["soya oil", "refined soybean oil"],
+    "risk": "moderate",
+    "category": "Fat",
+    "messages": [
+      "Soybean oil is high in polyunsaturated fats but heavily processed when refined.",
+      "High omega-6 content — best consumed in balance with omega-3 rich foods."
+    ],
+    "benefits": ["Polyunsaturated fats", "Vitamin K"]
+  },
+  {
+    "keyword": "cottonseed oil",
+    "aliases": ["refined cottonseed oil"],
+    "risk": "moderate",
+    "category": "Fat",
+    "messages": [
+      "Cottonseed oil is high in omega-6 fatty acids and saturated fats.",
+      "Commonly used in snack manufacturing — moderate consumption advisable."
+    ],
+    "benefits": ["Cooking stability"]
+  },
+  {
+    "keyword": "shortening",
+    "aliases": ["vegetable shortening", "baking shortening", "compound fat"],
+    "risk": "moderate",
+    "category": "Processed Fat",
+    "messages": [
+      "Shortening is a solid fat used in baking — check for hydrogenation status.",
+      "Modern shortenings are often trans-fat free but remain high in saturated fat."
+    ],
+    "benefits": ["Baking texture"]
+  },
+  {
+    "keyword": "butter oil",
+    "aliases": ["anhydrous butter oil", "clarified butter fat", "AMF"],
+    "risk": "moderate",
+    "category": "Dairy Fat",
+    "messages": [
+      "Butter oil is a concentrated dairy fat — high in saturated fat.",
+      "Used in processed dairy and confectionery products."
+    ],
+    "benefits": ["Fat-soluble vitamins", "Natural dairy source"]
+  },
+  {
+    "keyword": "interesterified fat",
+    "aliases": ["interesterified oil", "fractionated fat"],
+    "risk": "moderate",
+    "category": "Processed Fat",
+    "messages": [
+      "Interesterified fats are chemically modified oils used as trans fat alternatives.",
+      "Research on long-term health effects is still emerging — consume moderately."
+    ],
+    "benefits": ["Trans-fat free alternative"]
+  },
+  {
+    "keyword": "hydrogenated",
+    "aliases": ["partially hydrogenated", "hydrogenated oil", "hydrogenated fat"],
+    "risk": "careful",
+    "category": "Processed Fat",
+    "messages": [
+      "Hydrogenated oils may contain trans fats associated with cardiovascular risk.",
+      "Partially hydrogenated oils are the primary source of industrial trans fats."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "trans fat",
+    "aliases": ["trans fatty acid"],
+    "risk": "careful",
+    "category": "Processed Fat",
+    "messages": [
+      "Trans fats are linked to increased LDL cholesterol and cardiovascular risk.",
+      "There is no safe level of industrial trans fat — minimise wherever possible."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "butter",
+    "aliases": ["unsalted butter", "salted butter", "butter solids", "dairy butter"],
+    "risk": "moderate",
+    "category": "Dairy",
+    "messages": [
+      "Butter is a natural dairy fat rich in fat-soluble vitamins A, D, E, and K2.",
+      "High in saturated fat — enjoy in moderation as part of a balanced diet."
+    ],
+    "benefits": ["Vitamin A", "Vitamin K2", "Natural dairy"]
+  },
+  {
+    "keyword": "ghee",
+    "aliases": ["clarified butter", "desi ghee", "pure ghee"],
+    "risk": "moderate",
+    "category": "Dairy",
+    "messages": [
+      "Ghee is clarified butter rich in butyrate and fat-soluble vitamins.",
+      "A traditional cooking fat — high in saturated fat; use mindfully."
+    ],
+    "benefits": ["Butyrate", "Fat-soluble vitamins", "High smoke point"]
+  },
+  {
+    "keyword": "cream",
+    "aliases": ["heavy cream", "whipping cream", "fresh cream", "double cream", "single cream"],
+    "risk": "moderate",
+    "category": "Dairy",
+    "messages": [
+      "Cream is a rich dairy fat containing fat-soluble vitamins and natural dairy compounds.",
+      "High in saturated fat — enjoy in moderation."
+    ],
+    "benefits": ["Fat-soluble vitamins", "Calcium source"]
+  },
+  {
+    "keyword": "whey",
+    "aliases": ["whey powder", "sweet whey", "demineralised whey", "whey solids"],
+    "risk": "safe",
+    "category": "Dairy",
+    "messages": [
+      "Whey is a dairy byproduct rich in high-quality protein and essential amino acids.",
+      "Supports muscle recovery and immune function."
+    ],
+    "benefits": ["High protein", "Essential amino acids", "Muscle recovery"]
+  },
+  {
+    "keyword": "whey protein isolate",
+    "aliases": ["whey isolate", "WPI", "whey protein concentrate", "WPC"],
+    "risk": "safe",
+    "category": "Protein Supplement",
+    "messages": [
+      "Whey protein isolate is a highly purified protein with minimal fat and lactose.",
+      "Rapidly absorbed — ideal for post-workout muscle recovery."
+    ],
+    "benefits": ["Complete protein", "Rapid absorption", "Muscle recovery"]
+  },
+  {
+    "keyword": "casein",
+    "aliases": ["caseinate", "sodium caseinate", "calcium caseinate", "micellar casein"],
+    "risk": "safe",
+    "category": "Dairy Protein",
+    "messages": [
+      "Casein is a slow-digesting dairy protein that provides sustained amino acid release.",
+      "May cause sensitivity in those with dairy protein intolerance."
+    ],
+    "benefits": ["Slow-release protein", "Satiety", "Muscle support"]
+  },
+  {
+    "keyword": "skimmed milk powder",
+    "aliases": ["skim milk powder", "non-fat dry milk", "SMP", "buttermilk powder"],
+    "risk": "safe",
+    "category": "Dairy",
+    "messages": [
+      "Skimmed milk powder provides protein, calcium, and B vitamins with reduced fat.",
+      "Contains lactose — check tolerance if dairy-sensitive."
+    ],
+    "benefits": ["Protein", "Calcium", "B vitamins"]
+  },
+  {
+    "keyword": "milk",
+    "aliases": ["whole milk", "skimmed milk", "milk solids", "milk powder", "skim milk"],
+    "risk": "safe",
+    "category": "Dairy",
+    "messages": [
+      "Milk is a good source of calcium, Vitamin D, and protein.",
+      "Contains lactose — check individual tolerance."
+    ],
+    "benefits": ["Calcium", "Vitamin D", "Protein"]
+  },
+  {
+    "keyword": "cheese powder",
+    "aliases": ["cheddar powder", "cheese flavour", "processed cheese powder"],
+    "risk": "moderate",
+    "category": "Dairy",
+    "messages": [
+      "Cheese powder adds intense flavour but is often high in sodium and saturated fat.",
+      "Used widely in snacks and crackers — consume in moderation."
+    ],
+    "benefits": ["Calcium source", "Protein"]
+  },
+  {
+    "keyword": "milk fat",
+    "aliases": ["anhydrous milk fat", "dairy fat"],
+    "risk": "moderate",
+    "category": "Dairy Fat",
+    "messages": [
+      "Milk fat is a natural dairy component rich in fat-soluble vitamins.",
+      "High in saturated fat — moderate consumption recommended."
+    ],
+    "benefits": ["Fat-soluble vitamins", "Natural dairy origin"]
+  },
+  {
+    "keyword": "cocoa",
+    "aliases": ["cocoa powder", "cacao powder", "cocoa solids", "cocoa mass", "chocolate liquor", "cacao"],
+    "risk": "safe",
+    "category": "Natural Flavour",
+    "messages": [
+      "Cocoa is rich in flavanols with powerful antioxidant and heart-protective properties.",
+      "Natural source of magnesium and mood-supporting compounds."
+    ],
+    "benefits": ["Flavanols", "Antioxidant", "Magnesium"]
+  },
+  {
+    "keyword": "cocoa butter",
+    "aliases": ["cacao butter", "theobroma oil"],
+    "risk": "safe",
+    "category": "Fat",
+    "messages": [
+      "Cocoa butter is a natural fat from cacao beans with a stable saturated fat profile.",
+      "Rich in stearic acid which has a neutral effect on cholesterol."
+    ],
+    "benefits": ["Stable fat", "Natural origin", "Skin-nourishing"]
+  },
+  {
+    "keyword": "vanilla",
+    "aliases": ["vanilla extract", "vanilla bean", "vanilla powder", "vanilla flavour"],
+    "risk": "safe",
+    "category": "Natural Flavour",
+    "messages": [
+      "Vanilla is a natural flavouring with antioxidant and mood-calming properties.",
+      "Pure vanilla extract is preferable to synthetic vanillin."
+    ],
+    "benefits": ["Antioxidant", "Natural flavour", "Mood support"]
+  },
+  {
+    "keyword": "vanillin",
+    "aliases": ["synthetic vanilla", "artificial vanilla", "ethyl vanillin"],
+    "risk": "moderate",
+    "category": "Artificial Flavour",
+    "messages": [
+      "Vanillin is a synthetic compound that mimics vanilla flavour.",
+      "Considered safe at food levels but is an artificial substitute for natural vanilla."
+    ],
+    "benefits": ["Flavour enhancement"]
+  },
+  {
+    "keyword": "natural flavour",
+    "aliases": ["natural flavouring", "natural flavours", "natural flavoring", "added flavour"],
+    "risk": "moderate",
+    "category": "Flavouring",
+    "messages": [
+      "Natural flavours are derived from natural sources but may involve extensive processing.",
+      "Generally considered safe — specific source may not always be disclosed."
+    ],
+    "benefits": ["Taste enhancement"]
+  },
+  {
+    "keyword": "flavouring",
+    "aliases": ["flavoring", "artificial flavour", "artificial flavoring", "flavouring substances", "added flavouring", "flavour"],
+    "risk": "moderate",
+    "category": "Flavouring",
+    "messages": [
+      "Contains flavouring — may be natural or artificial in origin.",
+      "Exact ingredients may vary; check for sensitivities if needed."
+    ],
+    "benefits": ["Taste enhancement"]
+  },
+  {
+    "keyword": "peanut",
+    "aliases": ["groundnut", "arachis oil", "peanut butter", "peanut flour", "peanut protein"],
+    "risk": "careful",
+    "category": "Allergen",
+    "messages": [
+      "Peanut is one of the most common food allergens — check sensitivity before consuming.",
+      "Nutritious for non-allergic individuals: rich in protein, healthy fats, and folate."
+    ],
+    "benefits": ["High protein", "Healthy fats", "Folate"]
+  },
+  {
+    "keyword": "gluten",
+    "aliases": ["gliadin", "glutenin"],
+    "risk": "careful",
+    "category": "Allergen",
+    "messages": [
+      "Contains gluten — not suitable for celiac disease or gluten sensitivity.",
+      "Safe for most people but critical to avoid for those with intolerance."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "wheat",
+    "aliases": ["wheat flour", "wheat starch", "wheat germ", "semolina", "durum", "enriched wheat flour"],
+    "risk": "careful",
+    "category": "Allergen",
+    "messages": [
+      "Wheat is a common allergen and contains gluten — check personal tolerance.",
+      "Nutritious for non-sensitive individuals: B vitamins, fibre, and iron."
+    ],
+    "benefits": ["B vitamins", "Fibre", "Iron"]
+  },
+  {
+    "keyword": "soy",
+    "aliases": ["soya", "soy protein", "soybean", "soy lecithin", "tofu", "tempeh", "edamame", "soy isolate"],
+    "risk": "careful",
+    "category": "Allergen",
+    "messages": [
+      "Soy is a common allergen — check personal tolerance before consuming.",
+      "Rich in plant protein and isoflavones for non-allergic individuals."
+    ],
+    "benefits": ["Plant protein", "Isoflavones", "Heart health"]
+  },
+  {
+    "keyword": "lactose",
+    "aliases": ["milk sugar"],
+    "risk": "careful",
+    "category": "Allergen",
+    "messages": [
+      "Contains lactose — may not suit individuals with dairy sensitivity.",
+      "Provides calcium and protein for those who tolerate dairy."
+    ],
+    "benefits": ["Calcium", "Protein"]
+  },
+  {
+    "keyword": "almond",
+    "aliases": ["almond flour", "almond milk", "almond butter", "almond extract", "almond oil"],
+    "risk": "safe",
+    "category": "Nut",
+    "messages": [
+      "Almonds are rich in Vitamin E, healthy monounsaturated fats, and magnesium.",
+      "A heart-healthy snack supporting skin, brain, and bone health."
+    ],
+    "benefits": ["Vitamin E", "Monounsaturated fats", "Magnesium"]
+  },
+  {
+    "keyword": "walnut",
+    "aliases": ["walnut oil", "walnut extract"],
+    "risk": "safe",
+    "category": "Nut",
+    "messages": [
+      "Walnuts are exceptionally rich in plant-based omega-3 fatty acids.",
+      "Support brain health, heart function, and reduce inflammation."
+    ],
+    "benefits": ["Omega-3", "Brain health", "Anti-inflammatory"]
+  },
+  {
+    "keyword": "cashew",
+    "aliases": ["cashew butter", "cashew milk", "cashew flour"],
+    "risk": "safe",
+    "category": "Nut",
+    "messages": [
+      "Cashews are rich in copper, magnesium, and heart-healthy unsaturated fats.",
+      "A nutritious nut supporting energy production and immune function."
+    ],
+    "benefits": ["Copper", "Magnesium", "Healthy fats"]
+  },
+  {
+    "keyword": "sesame",
+    "aliases": ["tahini", "sesame oil", "sesame seeds", "sesame paste"],
+    "risk": "careful",
+    "category": "Allergen",
+    "messages": [
+      "Sesame is a recognised top allergen — check personal sensitivity.",
+      "Rich in calcium, iron, and healthy fats for non-allergic individuals."
+    ],
+    "benefits": ["Calcium", "Iron", "Healthy fats"]
+  },
+  {
+    "keyword": "flaxseed",
+    "aliases": ["linseed", "flax", "ground flaxseed", "flaxseed oil"],
+    "risk": "safe",
+    "category": "Seed",
+    "messages": [
+      "Flaxseed is one of the richest plant sources of omega-3 and lignans.",
+      "Supports heart health, hormonal balance, and digestive function."
+    ],
+    "benefits": ["Omega-3", "Lignans", "Digestive health"]
+  },
+  {
+    "keyword": "chia",
+    "aliases": ["chia seeds", "chia powder"],
+    "risk": "safe",
+    "category": "Seed",
+    "messages": [
+      "Chia seeds are rich in omega-3, fibre, calcium, and protein.",
+      "Expand in liquid to support satiety and digestive health."
+    ],
+    "benefits": ["Omega-3", "Fibre", "Calcium"]
+  },
+  {
+    "keyword": "egg",
+    "aliases": ["whole egg", "egg yolk", "egg white", "egg powder", "dried egg", "albumin"],
+    "risk": "safe",
+    "category": "Protein",
+    "messages": [
+      "Eggs are a complete protein containing all essential amino acids.",
+      "Rich in choline, Vitamin D, and healthy fats — one of the most nutrient-dense foods."
+    ],
+    "benefits": ["Complete protein", "Choline", "Vitamin D"]
+  },
+  {
+    "keyword": "protein",
+    "aliases": ["pea protein", "whey protein", "plant protein", "protein isolate", "protein concentrate", "pea isolate"],
+    "risk": "safe",
+    "category": "Protein",
+    "messages": [
+      "Good protein content — supports muscle repair, satiety, and metabolic function.",
+      "Protein is essential for cellular repair and immune function."
+    ],
+    "benefits": ["Muscle support", "Cell repair", "Satiety"]
+  },
+  {
+    "keyword": "collagen",
+    "aliases": ["collagen peptides", "hydrolysed collagen", "collagen powder"],
+    "risk": "safe",
+    "category": "Protein",
+    "messages": [
+      "Collagen peptides support skin elasticity, joint health, and gut lining integrity.",
+      "A structural protein with growing evidence for multiple wellness benefits."
+    ],
+    "benefits": ["Skin health", "Joint health", "Gut health"]
+  },
+  {
+    "keyword": "creatine",
+    "aliases": ["creatine monohydrate", "creatine HCl"],
+    "risk": "safe",
+    "category": "Sports Ingredient",
+    "messages": [
+      "Creatine is one of the most researched sports supplements for strength and power.",
+      "Safe for most healthy adults — supports high-intensity exercise performance."
+    ],
+    "benefits": ["Strength support", "Muscle energy", "Performance"]
+  },
+  {
+    "keyword": "taurine",
+    "aliases": ["taurine powder", "l-taurine"],
+    "risk": "moderate",
+    "category": "Sports Ingredient",
+    "messages": [
+      "Taurine is an amino acid commonly found in energy drinks and sports supplements.",
+      "Generally considered safe at typical doses used in food products."
+    ],
+    "benefits": ["Electrolyte balance", "Antioxidant", "Performance"]
+  },
+  {
+    "keyword": "l-carnitine",
+    "aliases": ["carnitine", "l-carnitine tartrate", "acetyl l-carnitine"],
+    "risk": "moderate",
+    "category": "Sports Ingredient",
+    "messages": [
+      "L-carnitine helps transport fatty acids into cells for energy production.",
+      "Evidence for fat-loss benefits is mixed — most effective in those with deficiency."
+    ],
+    "benefits": ["Fat metabolism", "Energy support", "Muscle recovery"]
+  },
+  {
+    "keyword": "fibre",
+    "aliases": ["dietary fibre", "soluble fibre", "insoluble fibre", "fiber", "dietary fiber"],
+    "risk": "safe",
+    "category": "Fibre",
+    "messages": [
+      "Good source of dietary fibre — essential for gut health and cholesterol management.",
+      "Fibre supports healthy microbiome, bowel regularity, and satiety."
+    ],
+    "benefits": ["Gut health", "Cholesterol support", "Satiety"]
+  },
+  {
+    "keyword": "inulin",
+    "aliases": ["chicory root", "chicory fibre", "fructooligosaccharides", "fos"],
+    "risk": "safe",
+    "category": "Prebiotic",
+    "messages": [
+      "Inulin is a prebiotic fibre that selectively feeds beneficial gut bacteria.",
+      "May cause mild gas if introduced rapidly — increase gradually."
+    ],
+    "benefits": ["Prebiotic", "Gut microbiome", "Calcium absorption"]
+  },
+  {
+    "keyword": "probiotic",
+    "aliases": ["live cultures", "active cultures", "lactobacillus", "bifidobacterium", "acidophilus"],
+    "risk": "safe",
+    "category": "Probiotic",
+    "messages": [
+      "Probiotics support a healthy and diverse gut microbiome.",
+      "May improve digestion, immunity, and mood via the gut-brain axis."
+    ],
+    "benefits": ["Gut microbiome", "Immunity", "Digestion"]
+  },
+  {
+    "keyword": "pectin",
+    "aliases": ["fruit pectin", "apple pectin", "citrus pectin", "e440"],
+    "risk": "safe",
+    "category": "Stabiliser",
+    "messages": [
+      "Pectin is a natural soluble fibre from fruit skins used as a gelling agent.",
+      "Supports gut health and may help manage cholesterol levels."
+    ],
+    "benefits": ["Soluble fibre", "Natural gelling agent", "Cholesterol support"]
+  },
+  {
+    "keyword": "vitamin c",
+    "aliases": ["ascorbic acid", "l-ascorbic acid", "ascorbate"],
+    "risk": "safe",
+    "category": "Vitamin",
+    "messages": [
+      "Vitamin C is a powerful antioxidant supporting immunity and collagen synthesis.",
+      "Essential for wound healing, iron absorption, and immune defence."
+    ],
+    "benefits": ["Immunity", "Collagen synthesis", "Iron absorption"]
+  },
+  {
+    "keyword": "vitamin d",
+    "aliases": ["cholecalciferol", "vitamin d3", "ergocalciferol"],
+    "risk": "safe",
+    "category": "Vitamin",
+    "messages": [
+      "Vitamin D supports bone mineralisation, immune function, and mood regulation.",
+      "Widely deficient globally — a beneficial addition to many products."
+    ],
+    "benefits": ["Bone health", "Immune support", "Mood regulation"]
+  },
+  {
+    "keyword": "vitamin e",
+    "aliases": ["tocopherol", "alpha-tocopherol", "mixed tocopherols"],
+    "risk": "safe",
+    "category": "Vitamin",
+    "messages": [
+      "Vitamin E is a fat-soluble antioxidant protecting cells from oxidative stress.",
+      "Supports skin health, immune function, and cardiovascular protection."
+    ],
+    "benefits": ["Antioxidant", "Skin health", "Immune support"]
+  },
+  {
+    "keyword": "omega",
+    "aliases": ["omega-3", "omega-6", "dha", "epa", "fish oil", "algae oil"],
+    "risk": "safe",
+    "category": "Fatty Acid",
+    "messages": [
+      "Omega fatty acids are essential for brain, heart, and inflammatory balance.",
+      "DHA and EPA support cognitive function and cardiovascular health."
+    ],
+    "benefits": ["Heart health", "Brain health", "Anti-inflammatory"]
+  },
+  {
+    "keyword": "caffeine",
+    "aliases": ["coffee extract", "green coffee", "guarana"],
+    "risk": "moderate",
+    "category": "Stimulant",
+    "messages": [
+      "Contains caffeine — supports alertness but may affect sleep if consumed late.",
+      "Moderate caffeine intake is generally safe; individual tolerance varies."
+    ],
+    "benefits": ["Alertness", "Cognitive boost", "Performance"]
+  },
+  {
+    "keyword": "green tea",
+    "aliases": ["green tea extract", "matcha", "egcg", "camellia sinensis"],
+    "risk": "safe",
+    "category": "Natural",
+    "messages": [
+      "Green tea is rich in EGCG antioxidants and provides gentle natural caffeine.",
+      "Supports metabolism, heart health, and cognitive function."
+    ],
+    "benefits": ["EGCG antioxidants", "Mild caffeine", "Metabolism support"]
+  },
+  {
+    "keyword": "lecithin",
+    "aliases": ["soy lecithin", "sunflower lecithin", "egg lecithin"],
+    "risk": "safe",
+    "category": "Emulsifier",
+    "messages": [
+      "Lecithin is a natural emulsifier commonly from soy or sunflower.",
+      "Supports cell membrane health and is generally well tolerated."
+    ],
+    "benefits": ["Natural emulsifier", "Cell membrane support"]
+  },
+  {
+    "keyword": "mono and diglycerides",
+    "aliases": ["mono- and diglycerides", "glycerol monostearate", "monoglycerides", "diglycerides", "e471"],
+    "risk": "moderate",
+    "category": "Emulsifier",
+    "messages": [
+      "Mono and diglycerides are common emulsifiers derived from fats — may be animal or plant-based.",
+      "Generally considered safe but may contain trace amounts of trans fats."
+    ],
+    "benefits": ["Texture improvement", "Emulsification"]
+  },
+  {
+    "keyword": "DATEM",
+    "aliases": ["diacetyl tartaric acid esters", "e472e"],
+    "risk": "moderate",
+    "category": "Emulsifier",
+    "messages": [
+      "DATEM is an emulsifier used in bread and baked goods to improve dough strength.",
+      "Considered safe at regulated food levels."
+    ],
+    "benefits": ["Dough conditioning", "Texture improvement"]
+  },
+  {
+    "keyword": "polysorbate",
+    "aliases": ["polysorbate 80", "polysorbate 60", "e433", "e435"],
+    "risk": "moderate",
+    "category": "Emulsifier",
+    "messages": [
+      "Polysorbates are synthetic emulsifiers commonly used in ice cream and sauces.",
+      "Some research suggests high doses may affect gut microbiome — regulated amounts considered safe."
+    ],
+    "benefits": ["Emulsification", "Texture stabilisation"]
+  },
+  {
+    "keyword": "polyglycerol esters",
+    "aliases": ["PGPR", "polyglycerol polyricinoleate", "e476"],
+    "risk": "moderate",
+    "category": "Emulsifier",
+    "messages": [
+      "Polyglycerol esters are emulsifiers commonly used in chocolate to reduce cocoa butter.",
+      "Considered safe within approved limits by food safety authorities."
+    ],
+    "benefits": ["Viscosity control", "Emulsifier"]
+  },
+  {
+    "keyword": "emulsifier",
+    "aliases": ["emulsifying agent", "emulsifying salt"],
+    "risk": "moderate",
+    "category": "Emulsifier",
+    "messages": [
+      "Emulsifiers help mix fat and water in processed foods — type and source vary.",
+      "Generally considered safe at food levels; specific type determines risk profile."
+    ],
+    "benefits": ["Texture improvement", "Shelf life extension"]
+  },
+  {
+    "keyword": "xanthan gum",
+    "aliases": ["e415"],
+    "risk": "safe",
+    "category": "Stabiliser",
+    "messages": [
+      "Xanthan gum is a natural microbial polysaccharide used as a thickener.",
+      "Generally well tolerated and widely used in gluten-free foods."
+    ],
+    "benefits": ["Natural thickener", "Gluten-free helper"]
+  },
+  {
+    "keyword": "guar gum",
+    "aliases": ["e412", "guar flour"],
+    "risk": "safe",
+    "category": "Stabiliser",
+    "messages": [
+      "Guar gum is a natural seed extract used as a thickener and stabiliser.",
+      "High in soluble fibre and generally well tolerated."
+    ],
+    "benefits": ["Soluble fibre", "Natural thickener", "Gut health"]
+  },
+  {
+    "keyword": "agar",
+    "aliases": ["agar agar", "e406", "agar powder"],
+    "risk": "safe",
+    "category": "Stabiliser",
+    "messages": [
+      "Agar is a plant-based gelling agent derived from seaweed.",
+      "A vegan alternative to gelatin with prebiotic fibre properties."
+    ],
+    "benefits": ["Vegan gelling agent", "Prebiotic", "Fibre"]
+  },
+  {
+    "keyword": "locust bean gum",
+    "aliases": ["carob bean gum", "e410"],
+    "risk": "safe",
+    "category": "Stabiliser",
+    "messages": [
+      "Locust bean gum is a natural plant-based thickener from carob seeds.",
+      "Often combined with other gums to improve gelling and texture."
+    ],
+    "benefits": ["Natural thickener", "Plant-based", "Fibre"]
+  },
+  {
+    "keyword": "gellan gum",
+    "aliases": ["e418"],
+    "risk": "safe",
+    "category": "Stabiliser",
+    "messages": [
+      "Gellan gum is a microbial polysaccharide used as a gelling and stabilising agent.",
+      "Vegan-friendly and considered safe by food authorities."
+    ],
+    "benefits": ["Vegan gelling agent", "Natural origin", "Stabiliser"]
+  },
+  {
+    "keyword": "carrageenan",
+    "aliases": ["e407", "irish moss extract"],
+    "risk": "moderate",
+    "category": "Stabiliser",
+    "messages": [
+      "Carrageenan is a seaweed-derived thickener — some research suggests potential gut sensitivity.",
+      "Generally considered safe at food levels."
+    ],
+    "benefits": ["Natural origin", "Thickener", "Vegan-friendly"]
+  },
+  {
+    "keyword": "modified starch",
+    "aliases": ["modified corn starch", "modified tapioca starch", "pre-gelatinized starch", "hydroxypropyl starch", "e1422", "e1442"],
+    "risk": "moderate",
+    "category": "Starch",
+    "messages": [
+      "Modified starches are chemically treated to improve texture and stability in processed foods.",
+      "Generally considered safe — used extensively in packaged foods as thickeners and binders."
+    ],
+    "benefits": ["Texture improvement", "Stability", "Thickening agent"]
+  },
+  {
+    "keyword": "thickener",
+    "aliases": ["thickening agent"],
+    "risk": "moderate",
+    "category": "Additive",
+    "messages": [
+      "Thickeners improve texture in processed foods — type varies by product.",
+      "Generally safe; specific ingredient determines health profile."
+    ],
+    "benefits": ["Texture improvement"]
+  },
+  {
+    "keyword": "stabilizer",
+    "aliases": ["stabiliser", "stabilizing agent"],
+    "risk": "moderate",
+    "category": "Additive",
+    "messages": [
+      "Stabilisers maintain texture and prevent separation in processed foods.",
+      "Generally considered safe within approved food levels."
+    ],
+    "benefits": ["Shelf life", "Texture consistency"]
+  },
+  {
+    "keyword": "baking soda",
+    "aliases": ["sodium bicarbonate", "bicarbonate of soda", "e500"],
+    "risk": "safe",
+    "category": "Leavening Agent",
+    "messages": [
+      "Baking soda is a natural leavening agent used in baked goods.",
+      "Reacts with acids to produce CO2 — essential for rise in baking."
+    ],
+    "benefits": ["Natural leavening", "Widely used in baking"]
+  },
+  {
+    "keyword": "baking powder",
+    "aliases": ["raising agent", "double acting baking powder"],
+    "risk": "safe",
+    "category": "Leavening Agent",
+    "messages": [
+      "Baking powder is a combination leavening agent for baked goods.",
+      "Typically contains sodium bicarbonate, cream of tartar, and a starch filler."
+    ],
+    "benefits": ["Natural leavening", "Baking essential"]
+  },
+  {
+    "keyword": "ammonium bicarbonate",
+    "aliases": ["baker's ammonia", "e503", "ammonium carbonate"],
+    "risk": "safe",
+    "category": "Leavening Agent",
+    "messages": [
+      "Ammonium bicarbonate is a leavening agent used in biscuits and crackers.",
+      "Releases ammonia during baking which fully dissipates — not retained in product."
+    ],
+    "benefits": ["Crispy texture", "Effective leavening"]
+  },
+  {
+    "keyword": "calcium carbonate",
+    "aliases": ["e170", "chalk", "calcium salt"],
+    "risk": "safe",
+    "category": "Mineral",
+    "messages": [
+      "Calcium carbonate is used as a food additive, calcium fortifier, and mild leavening agent.",
+      "A safe and widely used mineral supplement in food products."
+    ],
+    "benefits": ["Calcium source", "Natural mineral"]
+  },
+  {
+    "keyword": "disodium phosphate",
+    "aliases": ["e339", "sodium acid pyrophosphate", "SAPP", "disodium pyrophosphate"],
+    "risk": "moderate",
+    "category": "Leavening Agent",
+    "messages": [
+      "Disodium phosphate is a leavening and buffering agent used in baked goods.",
+      "Considered safe at approved levels — contributes to dietary phosphorus intake."
+    ],
+    "benefits": ["Leavening", "pH control"]
+  },
+  {
+    "keyword": "raising agent",
+    "aliases": ["leavening agent", "yeast", "chemical raising agent"],
+    "risk": "safe",
+    "category": "Leavening Agent",
+    "messages": [
+      "Raising agents help baked goods achieve their light, airy texture.",
+      "Can be natural (yeast) or chemical (baking powder) in origin."
+    ],
+    "benefits": ["Texture improvement", "Leavening"]
+  },
+  {
+    "keyword": "anti-caking agent",
+    "aliases": ["anticaking agent", "flow agent", "e551", "silicon dioxide"],
+    "risk": "safe",
+    "category": "Additive",
+    "messages": [
+      "Anti-caking agents prevent powdered ingredients from clumping together.",
+      "Generally safe at food levels — silicon dioxide is the most common type."
+    ],
+    "benefits": ["Improved flowability", "Product consistency"]
+  },
+  {
+    "keyword": "tartrazine",
+    "aliases": ["e102", "fd&c yellow 5", "yellow 5"],
+    "risk": "careful",
+    "category": "Food Colour",
+    "messages": [
+      "Tartrazine is a synthetic yellow dye linked to hyperactivity in sensitive children.",
+      "Requires an advisory warning label in the EU — minimise consumption in children."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "sunset yellow",
+    "aliases": ["e110", "fd&c yellow 6", "yellow 6"],
+    "risk": "careful",
+    "category": "Food Colour",
+    "messages": [
+      "Sunset Yellow is a synthetic orange-yellow dye — one of the Southampton Six colours.",
+      "Linked to hyperactivity concerns in children — requires EU warning label."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "allura red",
+    "aliases": ["e129", "fd&c red 40", "red 40"],
+    "risk": "careful",
+    "category": "Food Colour",
+    "messages": [
+      "Allura Red is a widely used synthetic red dye — one of the Southampton Six colours.",
+      "Linked to behavioural changes in children — EU requires advisory label."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "carmine",
+    "aliases": ["cochineal", "e120", "carminic acid"],
+    "risk": "moderate",
+    "category": "Food Colour",
+    "messages": [
+      "Carmine is a natural red dye derived from cochineal insects.",
+      "Not suitable for vegans or vegetarians — may cause allergic reactions in some."
+    ],
+    "benefits": ["Natural origin"]
+  },
+  {
+    "keyword": "annatto",
+    "aliases": ["e160b", "bixin", "norbixin", "annatto extract"],
+    "risk": "safe",
+    "category": "Food Colour",
+    "messages": [
+      "Annatto is a natural orange-yellow colour derived from the achiote seed.",
+      "Generally well tolerated — a clean-label alternative to synthetic dyes."
+    ],
+    "benefits": ["Natural colour", "Antioxidant properties"]
+  },
+  {
+    "keyword": "caramel colour",
+    "aliases": ["caramel", "e150", "e150a", "e150b", "e150c", "e150d"],
+    "risk": "moderate",
+    "category": "Food Colour",
+    "messages": [
+      "Caramel colour is the most widely used food colouring — several types exist.",
+      "Class IV (E150d) may contain 4-MEI — look for products with less processed variants."
+    ],
+    "benefits": ["Natural appearance"]
+  },
+  {
+    "keyword": "brilliant blue",
+    "aliases": ["e133", "fd&c blue 1"],
+    "risk": "moderate",
+    "category": "Food Colour",
+    "messages": [
+      "Brilliant Blue is a synthetic blue dye used in confectionery and beverages.",
+      "Considered safe within approved limits — artificial dye."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "titanium dioxide",
+    "aliases": ["e171", "CI 77891"],
+    "risk": "careful",
+    "category": "Food Colour",
+    "messages": [
+      "Titanium dioxide is a white colouring agent — banned in the EU since 2022 over safety concerns.",
+      "Still permitted in some countries — avoid where possible, especially for children."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "permitted colour",
+    "aliases": ["artificial colour", "permitted synthetic colour", "food colour"],
+    "risk": "moderate",
+    "category": "Food Colour",
+    "messages": [
+      "Contains food colouring — may be natural or synthetic in origin.",
+      "Synthetic colours are best minimised, especially in products for children."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "citric acid",
+    "aliases": ["e330"],
+    "risk": "safe",
+    "category": "Acid",
+    "messages": [
+      "Citric acid is a natural preservative found in citrus fruits.",
+      "Widely used and considered very safe — also acts as an antioxidant."
+    ],
+    "benefits": ["Natural preservative", "Antioxidant", "Flavour enhancement"]
+  },
+  {
+    "keyword": "sodium citrate",
+    "aliases": ["e331", "trisodium citrate"],
+    "risk": "safe",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Sodium citrate is a common acidity regulator and buffering agent.",
+      "Generally well tolerated and widely used in beverages and dairy products."
+    ],
+    "benefits": ["pH control", "Flavour balance"]
+  },
+  {
+    "keyword": "potassium citrate",
+    "aliases": ["e332", "tripotassium citrate"],
+    "risk": "safe",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Potassium citrate is an acidity regulator that also provides potassium.",
+      "May benefit urinary health and is generally well tolerated."
+    ],
+    "benefits": ["Potassium source", "pH control", "Urinary health"]
+  },
+  {
+    "keyword": "lactic acid",
+    "aliases": ["e270"],
+    "risk": "safe",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Lactic acid is a naturally occurring acid produced by fermentation.",
+      "Used as a preservative and acidity regulator — very well tolerated."
+    ],
+    "benefits": ["Natural origin", "pH control", "Fermentation by-product"]
+  },
+  {
+    "keyword": "calcium lactate",
+    "aliases": ["e327"],
+    "risk": "safe",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Calcium lactate is a calcium supplement and acidity regulator.",
+      "Well tolerated and provides a bioavailable form of calcium."
+    ],
+    "benefits": ["Calcium source", "pH control"]
+  },
+  {
+    "keyword": "sodium lactate",
+    "aliases": ["e325"],
+    "risk": "safe",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Sodium lactate is a natural salt used for moisture retention and pH control.",
+      "Derived from fermentation — generally well tolerated."
+    ],
+    "benefits": ["Moisture retention", "Natural origin"]
+  },
+  {
+    "keyword": "malic acid",
+    "aliases": ["e296", "dl-malic acid"],
+    "risk": "safe",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Malic acid is a naturally occurring fruit acid that adds tart flavour.",
+      "Widely used in confectionery and beverages — generally well tolerated."
+    ],
+    "benefits": ["Natural fruit acid", "Flavour enhancement"]
+  },
+  {
+    "keyword": "tartaric acid",
+    "aliases": ["e334", "cream of tartar"],
+    "risk": "safe",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Tartaric acid is a natural acid found in grapes and used as an acidity regulator.",
+      "Generally well tolerated — also used in leavening systems."
+    ],
+    "benefits": ["Natural origin", "pH control", "Antioxidant"]
+  },
+  {
+    "keyword": "acetic acid",
+    "aliases": ["e260", "vinegar"],
+    "risk": "safe",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Acetic acid (vinegar) is a natural preservative and flavouring agent.",
+      "Supports food safety and may have modest digestive benefits."
+    ],
+    "benefits": ["Natural preservative", "Digestive aid", "pH control"]
+  },
+  {
+    "keyword": "phosphoric acid",
+    "aliases": ["e338", "orthophosphoric acid"],
+    "risk": "moderate",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Phosphoric acid is used in colas and sodas to add a sharp, tangy taste.",
+      "Frequent high intake may affect calcium absorption and bone density."
+    ],
+    "benefits": ["Flavour enhancement", "pH control"]
+  },
+  {
+    "keyword": "acidity regulator",
+    "aliases": ["acid regulator", "buffer"],
+    "risk": "moderate",
+    "category": "Acidity Regulator",
+    "messages": [
+      "Acidity regulators control the pH of food to maintain taste and safety.",
+      "Specific compound determines the risk level — generally safe within approved limits."
+    ],
+    "benefits": ["pH control", "Flavour stability"]
+  },
+  {
+    "keyword": "sodium benzoate",
+    "aliases": ["e211", "benzoate"],
+    "risk": "moderate",
+    "category": "Preservative",
+    "messages": [
+      "Sodium benzoate is a preservative that is safe within approved limits.",
+      "May form benzene when combined with Vitamin C in acidic conditions."
+    ],
+    "benefits": ["Prevents spoilage"]
+  },
+  {
+    "keyword": "potassium sorbate",
+    "aliases": ["e202", "sorbate"],
+    "risk": "safe",
+    "category": "Preservative",
+    "messages": [
+      "Potassium sorbate is a widely used, naturally-derived preservative.",
+      "Inhibits mould and yeast — generally well tolerated at food levels."
+    ],
+    "benefits": ["Prevents mould", "Natural origin", "Safe at food levels"]
+  },
+  {
+    "keyword": "sodium nitrate",
+    "aliases": ["e251", "nitrate", "curing salt"],
+    "risk": "careful",
+    "category": "Preservative",
+    "messages": [
+      "Sodium nitrate is common in processed meats — limit frequent consumption.",
+      "Can form nitrosamines at high temperatures — associated with health concerns in excess."
+    ],
+    "benefits": ["Prevents bacterial growth"]
+  },
+  {
+    "keyword": "sodium metabisulphite",
+    "aliases": ["sodium metabisulfite", "e223", "sulphite", "sulphites", "sulfites", "e220", "e221", "e222", "e224"],
+    "risk": "careful",
+    "category": "Preservative",
+    "messages": [
+      "Sulphites are preservatives that can trigger asthma or allergic reactions in sensitive individuals.",
+      "Required to be declared on labels when above 10mg/kg — an important allergen for some."
+    ],
+    "benefits": ["Prevents browning", "Extends shelf life"]
+  },
+  {
+    "keyword": "BHA",
+    "aliases": ["butylated hydroxyanisole", "e320"],
+    "risk": "careful",
+    "category": "Preservative",
+    "messages": [
+      "BHA is a synthetic antioxidant preservative — listed as a possible human carcinogen.",
+      "Minimise consumption — avoid where not necessary."
+    ],
+    "benefits": ["Prevents oxidation"]
+  },
+  {
+    "keyword": "BHT",
+    "aliases": ["butylated hydroxytoluene", "e321"],
+    "risk": "careful",
+    "category": "Preservative",
+    "messages": [
+      "BHT is a synthetic antioxidant preservative used to prevent fat oxidation.",
+      "Safety is debated — some studies raise concerns at high doses."
+    ],
+    "benefits": ["Prevents oxidation"]
+  },
+  {
+    "keyword": "TBHQ",
+    "aliases": ["tertiary butylhydroquinone", "e319"],
+    "risk": "careful",
+    "category": "Preservative",
+    "messages": [
+      "TBHQ is a synthetic preservative found in many fried and processed snacks.",
+      "Some studies raise concerns at high doses — minimise frequent consumption."
+    ],
+    "benefits": ["Prevents oxidation", "Extends shelf life"]
+  },
+  {
+    "keyword": "calcium propionate",
+    "aliases": ["propionate", "sodium propionate", "e282", "e281"],
+    "risk": "moderate",
+    "category": "Preservative",
+    "messages": [
+      "Calcium propionate is a common mould inhibitor in bread and baked goods.",
+      "Generally considered safe — some individuals report sensitivity."
+    ],
+    "benefits": ["Prevents mould", "Extends shelf life"]
+  },
+  {
+    "keyword": "potassium bromate",
+    "aliases": ["e924"],
+    "risk": "careful",
+    "category": "Preservative",
+    "messages": [
+      "Potassium bromate is a flour improver banned in many countries including the EU and India.",
+      "Classified as a possible carcinogen — avoid products containing this ingredient."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "permitted preservative",
+    "aliases": ["contains preservative", "preservative"],
+    "risk": "moderate",
+    "category": "Preservative",
+    "messages": [
+      "Preservatives extend shelf life — safe within approved regulatory limits.",
+      "Prefer fresher and minimally processed options when possible."
+    ],
+    "benefits": ["Prevents spoilage"]
+  },
+  {
+    "keyword": "msg",
+    "aliases": ["monosodium glutamate", "e621", "glutamate"],
+    "risk": "moderate",
+    "category": "Flavour Enhancer",
+    "messages": [
+      "MSG is a flavour enhancer considered generally recognised as safe.",
+      "Some individuals report sensitivity — consume mindfully if you notice reactions."
+    ],
+    "benefits": ["Umami flavour enhancement"]
+  },
+  {
+    "keyword": "disodium inosinate",
+    "aliases": ["e631", "IMP", "inosine monophosphate"],
+    "risk": "moderate",
+    "category": "Flavour Enhancer",
+    "messages": [
+      "Disodium inosinate is a flavour enhancer often used alongside MSG.",
+      "Usually derived from meat or fish — not suitable for vegetarians."
+    ],
+    "benefits": ["Umami flavour enhancement"]
+  },
+  {
+    "keyword": "disodium guanylate",
+    "aliases": ["e627", "GMP", "guanosine monophosphate"],
+    "risk": "moderate",
+    "category": "Flavour Enhancer",
+    "messages": [
+      "Disodium guanylate is a flavour enhancer combined with MSG for intensified umami.",
+      "Often derived from yeast or animal sources — check for dietary suitability."
+    ],
+    "benefits": ["Umami flavour enhancement"]
+  },
+  {
+    "keyword": "yeast extract",
+    "aliases": ["autolyzed yeast", "autolysed yeast", "hydrolyzed yeast", "yeast"],
+    "risk": "moderate",
+    "category": "Flavour Enhancer",
+    "messages": [
+      "Yeast extract adds umami depth and is a natural source of B vitamins.",
+      "High in naturally occurring glutamates — may affect MSG-sensitive individuals."
+    ],
+    "benefits": ["B vitamins", "Natural umami", "Protein"]
+  },
+  {
+    "keyword": "hydrolyzed vegetable protein",
+    "aliases": ["HVP", "hydrolysed vegetable protein", "hydrolyzed plant protein"],
+    "risk": "moderate",
+    "category": "Flavour Enhancer",
+    "messages": [
+      "Hydrolyzed vegetable protein is a natural flavour booster derived from soy, wheat, or corn.",
+      "Contains naturally occurring glutamates — declare for allergen purposes."
+    ],
+    "benefits": ["Protein source", "Flavour enhancement"]
+  },
+  {
+    "keyword": "antioxidant",
+    "aliases": ["added antioxidant", "permitted antioxidant", "ins 300", "ins 304", "ins 306"],
+    "risk": "safe",
+    "category": "Additive",
+    "messages": [
+      "Antioxidants in food prevent oxidation and rancidity — may be natural or synthetic.",
+      "Natural antioxidants (Vitamin C, Vitamin E) are preferred over synthetic options."
+    ],
+    "benefits": ["Prevents oxidation", "Extends freshness"]
+  },
+  {
+    "keyword": "maltodextrin",
+    "aliases": ["dextrose", "glucose syrup"],
+    "risk": "moderate",
+    "category": "Additive",
+    "messages": [
+      "Maltodextrin is a refined carbohydrate with a high glycemic index.",
+      "Common filler in processed foods."
+    ],
+    "benefits": ["Quick energy", "Texture improvement"]
+  },
+  {
+    "keyword": "refined",
+    "aliases": ["refined flour", "refined sugar", "refined oil"],
+    "risk": "moderate",
+    "category": "Processed",
+    "messages": [
+      "Refined ingredients have reduced fibre and nutrient density.",
+      "Whole food alternatives are preferred — refined ingredients fine in moderation."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "artificial",
+    "aliases": ["artificial flavor", "artificial sweetener", "synthetic additive"],
+    "risk": "moderate",
+    "category": "Additive",
+    "messages": [
+      "Contains artificial additives — occasional consumption is generally considered fine.",
+      "Whole food and naturally derived alternatives are preferred for daily intake."
+    ],
+    "benefits": []
+  },
+  {
+    "keyword": "carbonated water",
+    "aliases": ["sparkling water", "soda water", "fizzy water", "carbonic acid"],
+    "risk": "safe",
+    "category": "Beverage",
+    "messages": [
+      "Carbonated water is simply water infused with CO2 — generally safe.",
+      "May cause mild bloating in some individuals but is not harmful."
+    ],
+    "benefits": ["Hydration", "Zero calories"]
+  },
+  {
+    "keyword": "soy sauce",
+    "aliases": ["shoyu", "tamari", "light soy sauce", "dark soy sauce"],
+    "risk": "moderate",
+    "category": "Condiment",
+    "messages": [
+      "Soy sauce is high in sodium and contains soy and often wheat allergens.",
+      "Rich in umami flavour — use in moderation due to sodium content."
+    ],
+    "benefits": ["Umami flavour", "Fermented food"]
+  },
+  {
+    "keyword": "vinegar",
+    "aliases": ["malt vinegar", "apple cider vinegar", "white vinegar", "rice vinegar"],
+    "risk": "safe",
+    "category": "Condiment",
+    "messages": [
+      "Vinegar is a natural fermented acid used as a preservative and flavouring.",
+      "Apple cider vinegar may support digestion and blood sugar balance."
+    ],
+    "benefits": ["Natural preservative", "Digestive aid", "Blood sugar support"]
+  }
+]
